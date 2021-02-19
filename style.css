@@ -1,0 +1,25 @@
+h1{
+    color:rgb(6, 202, 192);
+}
+*{
+    border:solid;
+}
+h2{
+    color: fuchsia;
+}
+p{
+    color:rgb(170, 11, 190)
+}
+.header{
+    background-color:rgb(255, 251, 0);
+    display: flex;
+    justify-content: space-between;
+}
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.item{
+    font-family: Arial;
+}
